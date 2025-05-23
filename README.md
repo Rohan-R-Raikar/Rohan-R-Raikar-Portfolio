@@ -4,7 +4,7 @@ This is the source code for my personal developer portfolio, built with HTML, CS
 
 ## 🌐 Live Demo
 
-[View Portfolio](https://rohan-raikar.github.io/Rohan-R-Raikar-portfolio/)
+[View Portfolio](https://rohan-r-raikar.github.io/Rohan-R-Raikar-portfolio/)
 
 ## 📁 Features
 
